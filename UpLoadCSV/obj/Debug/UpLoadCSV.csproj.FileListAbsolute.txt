@@ -1,0 +1,12 @@
+C:\Users\samee\Desktop\Upload_Api\UpLoadCSV\UpLoadCSV\bin\UpLoadCSV.dll.config
+C:\Users\samee\Desktop\Upload_Api\UpLoadCSV\UpLoadCSV\bin\UpLoadCSV.dll
+C:\Users\samee\Desktop\Upload_Api\UpLoadCSV\UpLoadCSV\bin\UpLoadCSV.pdb
+C:\Users\samee\Desktop\Upload_Api\UpLoadCSV\UpLoadCSV\obj\Debug\UpLoadCSV.csprojResolveAssemblyReference.cache
+C:\Users\samee\Desktop\Upload_Api\UpLoadCSV\UpLoadCSV\obj\Debug\UpLoadCSV.dll
+C:\Users\samee\Desktop\Upload_Api\UpLoadCSV\UpLoadCSV\obj\Debug\UpLoadCSV.pdb
+C:\AussieFarmer\UpLoadCSV1\UpLoadCSV\bin\UpLoadCSV.dll.config
+C:\AussieFarmer\UpLoadCSV1\UpLoadCSV\bin\UpLoadCSV.dll
+C:\AussieFarmer\UpLoadCSV1\UpLoadCSV\bin\UpLoadCSV.pdb
+C:\AussieFarmer\UpLoadCSV1\UpLoadCSV\obj\Debug\UpLoadCSV.csprojResolveAssemblyReference.cache
+C:\AussieFarmer\UpLoadCSV1\UpLoadCSV\obj\Debug\UpLoadCSV.dll
+C:\AussieFarmer\UpLoadCSV1\UpLoadCSV\obj\Debug\UpLoadCSV.pdb
